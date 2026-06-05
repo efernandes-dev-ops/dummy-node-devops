@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Test files
+test_*.js
+*.test.js
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
